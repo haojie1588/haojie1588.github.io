@@ -2,6 +2,7 @@ baseURL: https://haojie1588.github.io
 languageCode: zh-cn # en-us
 title: Haojie's Blog
 theme: PaperMod # 主题名字，和themes文件夹下的一致
+# publishDir: "docs" # 更改site生成的目录名
 
 enableInlineShortcodes: true #允许内联短码
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
