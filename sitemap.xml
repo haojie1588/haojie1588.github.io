@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://haojie1588.github.io/categories/</loc>
+    <loc>https://haojie1588.github.io/posts/auto-update/</loc>
+    <lastmod>2023-07-17T20:05:41+08:00</lastmod>
   </url><url>
     <loc>https://haojie1588.github.io/</loc>
+    <lastmod>2023-07-17T20:05:41+08:00</lastmod>
+  </url><url>
+    <loc>https://haojie1588.github.io/posts/</loc>
+    <lastmod>2023-07-17T20:05:41+08:00</lastmod>
+  </url><url>
+    <loc>https://haojie1588.github.io/posts/firt-post/</loc>
+    <lastmod>2023-07-17T19:11:28+08:00</lastmod>
+  </url><url>
+    <loc>https://haojie1588.github.io/categories/</loc>
   </url><url>
     <loc>https://haojie1588.github.io/series/</loc>
   </url><url>
