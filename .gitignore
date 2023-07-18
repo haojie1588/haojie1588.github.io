@@ -1,4 +1,4 @@
 *.lock
 resources
 public
-push
+push*
