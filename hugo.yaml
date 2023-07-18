@@ -100,19 +100,13 @@ params:
     
     socialIcons:
         - name: github
-          url: "https://github.com/xyming108"
-        - name: twitter
-          url:  "img/twitter.png"
-        - name: facebook
-          url: "https://www.facebook.com/profile.php?id=100027782410997"
-        - name: instagram
-          url: "img/instagram.png"
+          url: "https://github.com/haojie1588"
         - name: QQ
           url: "img/qq.png"
         - name: WeChat
           url: "img/wechat.png"
         - name: email
-          url: "mailto:1931559710@qq.com"
+          url: "mailto:650865983@qq.com"
         - name: RSS
           url: "index.xml"
 
@@ -157,7 +151,7 @@ params:
     
     profileMode:
         enabled: true
-        title: (〃'▽'〃)
+        title: 爱你呦，思敏~(〃'▽'〃)
         subtitle: "haojie的数字花园"
         imageUrl: "img/Q.gif" #图片放在static/img/Q.gif
         imageTitle: 
